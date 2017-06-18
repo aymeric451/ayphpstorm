@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Dreamweaver" version="1" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
-  <colors>
-    <option name="CARET_ROW_COLOR" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="808080" />
-  </colors>
+<code_scheme name="Dreamweaver">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="LABEL_INDENT_SIZE" value="0" />
+      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </value>
+  </option>
   <attributes>
     <option name="CSS.COMMENT">
       <value>
@@ -349,5 +353,8 @@
       </value>
     </option>
   </attributes>
-</scheme>
-
+  <colors>
+    <option name="CARET_ROW_COLOR" value="" />
+    <option name="LINE_NUMBERS_COLOR" value="808080" />
+  </colors>
+</code_scheme>
