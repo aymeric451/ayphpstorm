@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; SQL</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("SQL")]]></place>
+    </injection>
+  </component>
+</application>
