@@ -99,6 +99,33 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value />
+    </option>
+    <option name="JS.DOC_MARKUP">
+      <value>
+        <option name="BACKGROUND" value="e2ffe2" />
+      </value>
+    </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="JS.PARENTHS">
+      <value />
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="c41a16" />
+      </value>
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="ffcccc" />
