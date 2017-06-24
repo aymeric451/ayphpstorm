@@ -123,7 +123,7 @@
     </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="c41a16" />
+        <option name="FOREGROUND" value="100ff" />
       </value>
     </option>
     <option name="PHP_BAD_CHARACTER">
