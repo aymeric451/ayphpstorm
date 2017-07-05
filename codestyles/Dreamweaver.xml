@@ -11,6 +11,9 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <PHPCodeStyleSettings>
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
+  </PHPCodeStyleSettings>
   <attributes>
     <option name="CSS.COMMENT">
       <value>
@@ -381,6 +384,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="BRACE_STYLE" value="2" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
