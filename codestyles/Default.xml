@@ -61,6 +61,14 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
