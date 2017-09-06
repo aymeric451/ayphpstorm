@@ -77,7 +77,6 @@
     <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
