@@ -1,8 +1,13 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="/usr/local/Cellar/php71/7.1.8_20/bin/php" id="b8863bf4-c5c6-423e-b996-23582c85abb8" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.5_17/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.5_17/bin/php" path_separator=":" version="7.1.5">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.8_20/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.8_20/bin/php" path_separator=":" version="7.1.8">
           <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-apcu.ini, /usr/local/etc/php/7.1/conf.d/ext-blackfire.ini, /usr/local/etc/php/7.1/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/php/7.1/conf.d/ext-redis.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
@@ -14,7 +19,7 @@
             <configuration_option name="apc.enabled" value="1" />
             <configuration_option name="apc.entries_hint" value="4096" />
             <configuration_option name="apc.gc_ttl" value="3600" />
-            <configuration_option name="apc.mmap_file_mask" value="/tmp/apc.zbit7x" />
+            <configuration_option name="apc.mmap_file_mask" value="/tmp/apc.Lwr1B0" />
             <configuration_option name="apc.preload_path" value="" />
             <configuration_option name="apc.serializer" value="php" />
             <configuration_option name="apc.shm_segments" value="1" />
@@ -78,7 +83,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.5_17/lib/php/extensions/no-debug-non-zts-20160303" />
+            <configuration_option name="extension_dir" value="/usr/local/Cellar/php71/7.1.8_20/lib/php/extensions/no-debug-non-zts-20160303" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -317,7 +322,7 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
@@ -348,7 +353,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.4">
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
