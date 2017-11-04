@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="try" value="try&#10;{&#10;&#9;$END$&#10;}&#10;catch(\Exception $e) { }" description="try catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
