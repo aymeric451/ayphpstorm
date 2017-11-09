@@ -1,0 +1,13 @@
+<templateSet group="html/xml">
+  <template name="jq" value="&lt;script src=&quot;https://s.virtuafoot.com/js/jquery.min.js&quot;&gt;&lt;/script&gt;" description="insert jquery" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
+</templateSet>
