@@ -20,6 +20,7 @@
     <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
@@ -74,6 +75,7 @@
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
@@ -81,6 +83,7 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
+    <option name="SPACE_AROUND_LOGICAL_OPERATORS" value="false" />
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
     <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
     <option name="SPACE_AROUND_BITWISE_OPERATORS" value="false" />
@@ -97,12 +100,17 @@
     <option name="SPACE_BEFORE_ELSE_LBRACE" value="false" />
     <option name="SPACE_BEFORE_WHILE_LBRACE" value="false" />
     <option name="SPACE_BEFORE_FOR_LBRACE" value="false" />
-    <option name="SPACE_BEFORE_ELSE_KEYWORD" value="false" />
-    <option name="SPACE_BEFORE_WHILE_KEYWORD" value="false" />
+    <option name="SPACE_BEFORE_DO_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
     <option name="SPACE_BEFORE_QUEST" value="false" />
     <option name="SPACE_AFTER_QUEST" value="false" />
     <option name="SPACE_BEFORE_COLON" value="false" />
     <option name="SPACE_AFTER_COLON" value="false" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="WHILE_BRACE_FORCE" value="1" />
     <option name="FOR_BRACE_FORCE" value="1" />
