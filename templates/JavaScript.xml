@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="json" value="await (await fetch('$URL$')).json();" description="get json using fetch" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
