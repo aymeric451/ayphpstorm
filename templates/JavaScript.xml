@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="xhr" value="var xhr=new XMLHttpRequest();&#10;xhr.onload=function(result) { $CODE$ };&#10;xhr.open('GET','$URL$',true);&#10;xhr.send(null);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xhr" value="var xhr=new XMLHttpRequest();&#10;xhr.onload=function(e) { console.log(xhr.responseText);$CODE$ };&#10;xhr.open('GET','$URL$',true);&#10;xhr.send(null);" description="Makes an http call using a xhr" toReformat="false" toShortenFQNames="true">
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
