@@ -80,7 +80,6 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
-    <option name="SPACE_AROUND_LOGICAL_OPERATORS" value="false" />
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
     <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
     <option name="SPACE_AROUND_BITWISE_OPERATORS" value="false" />
