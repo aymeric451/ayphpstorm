@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="cmp.bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ads.virtua.io_cmp_cmp.bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ads.virtua.io_cmp_cmp.bundle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
