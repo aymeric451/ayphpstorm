@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="components" />
+    <ignored-resource url="nativescript-statusbar" />
   </component>
 </application>
