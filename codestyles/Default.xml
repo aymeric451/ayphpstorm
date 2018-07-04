@@ -18,7 +18,6 @@
     <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
