@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="cloudflare-workers" type="JavaScript" />
       <mapping pattern="Makefile" type="Native" />
       <mapping ext="img" type="PLAIN_TEXT" />
     </extensionMap>
