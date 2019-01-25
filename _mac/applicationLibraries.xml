@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="webgazer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_webgazer.cs.brown.edu_webgazer.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_webgazer.cs.brown.edu_webgazer.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
