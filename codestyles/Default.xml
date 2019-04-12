@@ -17,7 +17,7 @@
     <option name="SPACE_AFTER_COLON" value="false" />
     <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
@@ -125,7 +125,6 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BRACE_STYLE" value="2" />
-    <option name="LAMBDA_BRACE_STYLE" value="5" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
