@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="cloudflare-workers" type="JavaScript" />
       <mapping pattern="Makefile" type="Native" />
+      <mapping pattern="test-vastparser.php" type="PLAIN_TEXT" />
       <mapping ext="img" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
