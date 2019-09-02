@@ -18,9 +18,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="getscript" value="var s=document.createElement('script');&#10;s.type='application/javascript';&#10;s.src='$URL$';&#10;s.onload=function(e){ $LOAD$ };&#10;document.body.appendChild(s);" description="import an external script" toReformat="false" toShortenFQNames="true">
-    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="LOAD" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="getScript" value="function getScript(url) {&#10;&#9;return new Promise(function(resolve, reject) {&#10;    var s=document.createElement(&quot;script&quot;);&#10;&#9;  s.type=&quot;application/javascript&quot;;&#10;&#9;  s.src=url;&#10;&#9;  s.onload=resolve;&#10;&#9;  s.onerror=reject;&#10;&#9;  document.body.appendChild(s);&#10;&#9;});&#10;}" description="import an external script" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
